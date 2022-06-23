@@ -1,0 +1,15 @@
+结果说明情况
+列表结果展示仅为部分结果，因为数据集结果较大，则放在网盘处，需要请自取
+使用tusimple数据集的结果参考链接：https://pan.baidu.com/s/1s1qi4LnrAxSIwSaF5t95Pw
+提取码：zihr
+使用culane数据集的结果参考链接：https://pan.baidu.com/s/1Djt9i9V91DfjJjv6SHmtNg
+提取码：3ssb
+
+此外还有部分图片不是这两个数据集当中的，其结果也在列表当中，
+名称为my_image_test_result.zip，my_image_night_result.zip和my_image_radio_result.zip，
+其中my_image_night_result.zip文件中为夜间行驶中的图片，旨在测试模型在夜间检测的能力；
+my_image_radio_result.zip是对多帧图片进行检测，之后再整合成一段视频。
+
+我们之后又对代码进行了改进，将图片上的文字进行了消除，因结果文件过大，可以查看百度云
+链接：https://pan.baidu.com/s/1zMpWn_SQRTvK29c_csvf6Q
+提取码：2d9f
