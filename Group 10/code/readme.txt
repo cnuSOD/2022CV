@@ -1,4 +1,4 @@
-1.通过Anaconda安装pytorch(当时废了好大劲才安装下来)
+1.通过Anaconda安装pytorch
 
 2.把ptgaze包安装下来（pip install ptgaze 已经设置了setup文件）
 
